@@ -11,3 +11,4 @@ crasync
 cr-py
 urban-async
 moviepy
+spice_api
